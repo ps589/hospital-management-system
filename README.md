@@ -1,8 +1,8 @@
-# Hospital Management System 🚑
+# Hospital Management System 
 
 A comprehensive healthcare management solution built with Django, designed to streamline hospital operations and enhance patient care.
 
-## 🏥 Core Features
+##  Core Features
 
 ### Appointment Management
 - **Smart Booking System**
@@ -58,7 +58,7 @@ A comprehensive healthcare management solution built with Django, designed to st
 - **UI Components**: IcoFont, Slick Carousel
 - **Deployment**: PythonAnywhere
 
-<!--## 📱 Screenshots
+<!--##  Screenshots
 
 ### Home Page
 ![Home Page](Hope_Hospitals/public/home%20-%201.png)
@@ -84,7 +84,7 @@ A comprehensive healthcare management solution built with Django, designed to st
 ![Test Results](Hope_Hospitals/public/test-results.png)
 *Laboratory results tracking system*-->
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository:
 ```bash
@@ -117,7 +117,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the root directory with:
 ```
@@ -130,7 +130,7 @@ ALLOWED_HOSTS=localhost,127.0.0.1
 
 
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to make changes and improvements
 
